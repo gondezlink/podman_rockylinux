@@ -1,4 +1,5 @@
-sudo dnf check-update
-sudo dnf update
-sudo dnf install podman
-podman version
+#dnf check-update
+#dnf update
+#dnf install podman
+//check versi podman 
+#podman version
