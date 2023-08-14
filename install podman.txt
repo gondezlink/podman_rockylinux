@@ -1,5 +1,0 @@
-#dnf check-update
-#dnf update
-#dnf install podman
-//check versi podman 
-#podman version
